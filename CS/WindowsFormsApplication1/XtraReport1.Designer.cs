@@ -135,7 +135,6 @@
             this.DataAdapter = this.categoriesTableAdapter;
             this.DataMember = "Categories";
             this.DataSource = this.nwindDataSet1;
-            this.Version = "13.1";
             ((System.ComponentModel.ISupportInitialize)(this.xrTable1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.nwindDataSet1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this)).EndInit();

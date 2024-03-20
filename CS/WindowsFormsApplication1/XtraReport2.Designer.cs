@@ -123,7 +123,6 @@
             this.DataAdapter = this.productsTableAdapter1;
             this.DataMember = "Products";
             this.DataSource = this.nwindDataSet1;
-            this.Version = "13.1";
             ((System.ComponentModel.ISupportInitialize)(this.nwindDataSet1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this)).EndInit();
 
