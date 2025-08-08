@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 [![](https://img.shields.io/badge/💬_Leave_Feedback-feecdd?style=flat-square)](#does-this-example-address-your-development-requirementsobjectives)
 <!-- default badges end -->
-# Reporting for WinForms - How to Export Reports to Different Sheets in an XLSX file by using Spreadsheet Document Server
+# Reporting for WinForms - How to Export Reports to Different Sheets in an XLSX file using Spreadsheet Document Server
 
 This example illustrates how to use the Spreadsheet Document Server to export different reports to different sheets of a single XLSX file.
 
