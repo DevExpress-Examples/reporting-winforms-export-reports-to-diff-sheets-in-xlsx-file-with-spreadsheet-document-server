@@ -21,7 +21,7 @@ You need a license for the [DevExpress Office File API Subscription](https://www
 
 [Export to XLSX](https://docs.devexpress.com/XtraReports/6284/detailed-guide-to-devexpress-reporting/store-and-distribute-reports/export-reports/export-to-xlsx)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-winforms-export-reports-to-diff-sheets-in-xlsx-file-with-spreadsheet-document-api&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-winforms-export-reports-to-diff-sheets-in-xlsx-file-with-spreadsheet-document-api&~~~was_helpful=no)
 
